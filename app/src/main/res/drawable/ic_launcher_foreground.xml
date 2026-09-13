@@ -1,0 +1,25 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Clean Minimalist Calendar Icon for App Launcher -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M76,34h-4v-6h-6v6H42v-6h-6v6h-4c-3.3,0 -6,2.7 -6,6v44c0,3.3 2.7,6 6,6h44c3.3,0 6,-2.7 6,-6V40C82,36.7 79.3,34 76,34zM76,84H32V46h44V84z"/>
+    <path
+        android:fillColor="#2DD4BF"
+        android:pathData="M38,54h10v10H38z"/>
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M52,54h10v10H52z"/>
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M66,54h6v10h-6z"/>
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,68h10v10H38z"/>
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M52,68h10v10H52z"/>
+</vector>

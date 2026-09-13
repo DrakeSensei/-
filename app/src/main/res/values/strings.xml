@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تقویم خورشیدی</string>
+    <string name="notification_channel_name">تاریخ امروز</string>
+    <string name="notification_channel_description">نمایش تاریخ روز در نوار وضعیت گوشی</string>
+</resources>
